@@ -10,4 +10,4 @@ AGE (int) <br>
 STATUS_APPROVED (BINARY) <br>
 SCHOLARSHIP (float)
 
-**Link do vídeo com a explicação**: 
+**Link do vídeo com a explicação**: https://drive.google.com/file/d/1--nn8r9nthBjDuQ9bPohN0q_TPAVg9v6/view?usp=sharing
